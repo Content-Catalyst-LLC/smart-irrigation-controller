@@ -1,0 +1,11 @@
+Component,Example,Qty,Notes
+Arduino Uno,ATmega328P,1,Arduino Nano also acceptable
+Capacitive Soil Moisture Sensor,v1.2,1,Preferred over resistive sensors for reduced corrosion
+DHT22 Sensor,Temperature/Humidity,1,Optional
+Relay Module,5V,1,Active-low modules are common
+Submersible Pump,5V DC,1,Use external power supply
+Breadboard,Standard,1,Optional depending on final build
+Jumper Wires,Male/Female,10,As needed
+External Power Supply,5V DC,1,Required for pump
+Water Reservoir,Small container,1,For prototype testing
+Tubing,Small diameter,1,Optional depending on pump setup
