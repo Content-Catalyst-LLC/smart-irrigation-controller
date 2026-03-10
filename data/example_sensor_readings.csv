@@ -1,11 +1,5 @@
-timestamp_seconds,soil_moisture_value,temperature_c,humidity_percent,pump_state
-0,720,24.1,52.0,OFF
-60,705,24.1,52.3,OFF
-120,690,24.0,52.5,OFF
-180,668,24.0,52.7,OFF
-240,655,24.0,53.0,OFF
-300,648,24.0,53.1,OFF
-360,670,23.9,52.9,ON
-420,590,23.9,53.4,OFF
-480,540,23.8,53.8,OFF
-540,505,23.8,54.0,OFF
+timestamp,soil_value
+0,720
+60,705
+120,660
+180,500
